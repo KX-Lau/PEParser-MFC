@@ -1,0 +1,3 @@
+﻿  CRelocTable.cpp
+E:\CppWorkspace\PE-Parser\CRelocTable.cpp(96,22): warning C4018: “<”: 有符号/无符号不匹配
+  PE-Parser.vcxproj -> E:\CppWorkspace\PE-Parser\Debug\PE-Parser.exe
